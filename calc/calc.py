@@ -1,10 +1,11 @@
 # Simple calculator v1
 from colorama import init
 from colorama import Fore, Back, Style
+
 init()
 print(Back.RED)
 print(Fore.BLACK)
-
+print("Hello!")
 what = input("What are we doing? (+ or -)")
 
 print(Back.YELLOW)
