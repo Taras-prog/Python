@@ -18,4 +18,6 @@ elif temp < 15:
 else:
     print('Weather is warm')
 
+input()
+input()
     
